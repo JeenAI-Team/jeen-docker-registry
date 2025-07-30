@@ -7,7 +7,7 @@
 | Service             | Image Name                                                              |
 |---------------------|-------------------------------------------------------------------------|
 | **Playground Backend**   | `jeendevregistry.azurecr.io/jeen-az-api-service:29072025`            |
-|                     | `jeendevregistry.azurecr.io/jeen-az-api-service:29072025-OS`            |
+|                     | `jeendevregistry.azurecr.io/jeen-az-api-service:30072025-OS`            |
 | **pyMuPDF Parsing**      | Need to edit will add soon                                                                |
 | **Langflow Backend**     | `jeendevregistry.azurecr.io/langflow-be:v2` (Not final)                        |
 | **Langflow Frontend**    | `jeendevregistry.azurecr.io/langflow-fe:v1` (Not final)                          |
